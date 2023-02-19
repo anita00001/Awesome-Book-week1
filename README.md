@@ -85,7 +85,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 - **cd your-folder**
-- **git clone https://github.com/vangelif/awesome-books**
+- **git clone https://github.com/anita00001/Awesome-Book**
 
 
 ### Install
@@ -138,7 +138,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/vangelif/awesome-books/issues).
+Feel free to check the [issues page](https://github.com/anita00001/Awesome-Book/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
