@@ -64,7 +64,7 @@ This project is built using HTML, CSS and JavaScript.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://vangelif.github.io/awesome-books/)
+- [Live Demo Link](https://anita00001.github.io/Awesome-Book/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
